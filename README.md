@@ -21,3 +21,6 @@
 # Host IP
 http://51.91.56.16/
 
+# FILES 
+- adilmc -> trinity compiled
+
