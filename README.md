@@ -8,3 +8,6 @@
 
 # Music WTF
 - http://nonhost.ml/launcher/bg.ogg
+
+# Old nonhost Image
+- http://nonhost.ml/bo2/unique.png
