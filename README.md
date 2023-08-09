@@ -13,8 +13,11 @@
 - http://nonhost.ml/bo2/unique.png
 
 # Homebrew_App
-- http://nonhost.ml/SDL_Install__.rpx
-- http://nonhost.ml/SDL_Installer.rpx
+- http://nonhost.ml/SDL-Install__.rpx
+- http://nonhost.ml/SDL-Installer.rpx
 - http://nonhost.ml/icon.png
 - http://nonhost.ml/meta.xml
+
+# Host IP
+http://51.91.56.16/
 
