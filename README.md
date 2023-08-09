@@ -24,3 +24,5 @@ http://51.91.56.16/
 # FILES 
 - adilmc -> trinity compiled
 
+# Credits
+Thx to Korozin for trinity files :)
