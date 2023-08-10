@@ -1,7 +1,7 @@
 # nonhost.ml source
 **NONHOST SOURCE FILES**
 
-# Files
+# FILES
 - http://nonhost.ml/launcher/2tr_logo.png
 - http://nonhost.ml/launcher/2vl_logo.png
 - http://nonhost.ml/launcher/2ph_logo.png
@@ -12,7 +12,7 @@
 - http://nonhost.ml/icon.png
 - http://nonhost.ml/meta.xml
 
-# Host IP
+# HOST IP
 http://51.91.56.16/
 
 # FILES COMPILED
@@ -22,5 +22,5 @@ http://51.91.56.16/
 - lto.elf -> Phantom compiled elf
 - Rambo.elf -> server compiled elf
 
-# Credits
+# CREDITS
 Thx to Korozin for trinity files and Lokey for compiled elf menus :)
