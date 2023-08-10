@@ -24,6 +24,7 @@ http://51.91.56.16/
 - alive -> (idk)
 - online -> (idk)
 - version -> it is a file where it is written the version.
+- update -> this is the update version.
 
 # CREDITS
 Thx to Korozin for trinity files and Lokey for compiled elf menus :)
