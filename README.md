@@ -26,6 +26,7 @@ http://51.91.56.16/
 - online -> (idk)
 - version -> it is a file where it is written the version.
 - update -> this is the update version.
+- adilc_crack_v2.elf -> Vulcain v1.8 cracked ! (you can launch on homebrew_launcher) [cacked by Lokey :) ]
 
 # what did they use to make their menus ?
 to make the menu mods they used the source of WiiUGameHacking as we can see in lto.elf (Phantom), adil.elf (vulcain, adilmc.elf(minecraft) or rambo.elf(server) because inside we see a famous 
@@ -37,4 +38,4 @@ We're started ...
 and also the launcher.elf was made under WiiUGameHacking too !
 
 # CREDITS
-Thx to Korozin for trinity files and Lokey for compiled elf menus :)
+Thx to Korozin for trinity files and Lokey for compiled elf menus and vulcain crack elf :)
