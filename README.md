@@ -5,7 +5,7 @@
 - > Keyziro -> Trintiy, Vulcain
 - > LetsTimeOut -> Phantom
 
-# FILES
+# USELESS
 - http://nonhost.ml/launcher/2tr_logo.png Trinity Image
 - http://nonhost.ml/launcher/2vl_logo.png Vuclain Image
 - http://nonhost.ml/launcher/2ph_logo.png Phantom Image
@@ -15,6 +15,9 @@
 - http://nonhost.ml/SDL-Installer.rpx RPX SDL
 - http://nonhost.ml/icon.png Nonhost Icon
 - http://nonhost.ml/meta.xml Nonhost meta
+- http://nonhost.ml/version Version
+- http://nonhost.ml/online Online
+- http://nonhost.ml/update Update
 
 # HOST IP
 http://51.91.56.16/
