@@ -17,7 +17,8 @@
 - http://nonhost.ml/meta.xml Nonhost meta
 - http://nonhost.ml/version Version
 - http://nonhost.ml/online Online
-- http://nonhost.ml/update Update
+- http://nonhost.ml/update Update [not found !]
+- http://nonhost.ml/alive Alive [not found !]
 
 # HOST IP
 http://51.91.56.16/
