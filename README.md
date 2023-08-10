@@ -15,7 +15,7 @@
 # Host IP
 http://51.91.56.16/
 
-# FILES 
+# FILES COMPILED
 - adilmc -> compiled
 - adilmc.elf -> trinity compiled elf
 - adil.elf -> Vulcain compiled elf
