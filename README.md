@@ -1,7 +1,7 @@
 # nonhost.ml source
 **NONHOST SOURCE FILES**
 > nonhost by Rambo6Glaz, KeyZiro and LetsTimeOut
-- > Rambo6Glaz -> server launcher
+- > Rambo6Glaz -> Server launcher
 - > Keyziro -> Trintiy, Vulcain
 - > LetsTimeOut -> Phantom
 
