@@ -2,15 +2,15 @@
 **NONHOST SOURCE FILES**
 
 # FILES
-- http://nonhost.ml/launcher/2tr_logo.png
-- http://nonhost.ml/launcher/2vl_logo.png
-- http://nonhost.ml/launcher/2ph_logo.png
-- http://nonhost.ml/launcher/bg.ogg
-- http://nonhost.ml/bo2/unique.png
-- http://nonhost.ml/SDL-Install__.rpx
-- http://nonhost.ml/SDL-Installer.rpx
-- http://nonhost.ml/icon.png
-- http://nonhost.ml/meta.xml
+- http://nonhost.ml/launcher/2tr_logo.png Trinity Image
+- http://nonhost.ml/launcher/2vl_logo.png Vuclain Image
+- http://nonhost.ml/launcher/2ph_logo.png Phantom Image
+- http://nonhost.ml/launcher/bg.ogg Music
+- http://nonhost.ml/bo2/unique.png Old nonhost Image
+- http://nonhost.ml/SDL-Install__.rpx RPX SDL
+- http://nonhost.ml/SDL-Installer.rpx RPX SDL
+- http://nonhost.ml/icon.png Nonhost Icon
+- http://nonhost.ml/meta.xml Nonhost meta
 
 # HOST IP
 http://51.91.56.16/
