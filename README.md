@@ -1,5 +1,6 @@
 # nonhost.ml source
 **NONHOST SOURCE FILES**
+> nonhost by Rambo6Glaz, KeyZiro and LetsTimeOut
 
 # FILES
 - http://nonhost.ml/launcher/2tr_logo.png Trinity Image
