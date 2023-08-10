@@ -25,4 +25,4 @@ http://51.91.56.16/
 - adilmc -> trinity compiled
 
 # Credits
-Thx to Korozin for trinity files :)
+Thx to Korozin for trinity files and Lokey for compiled elf menus :)
