@@ -28,12 +28,13 @@ http://51.91.56.16/
 - update -> this is the update version.
 
 # what did they use to make their menus ?
-to make the menu mods they used the source of WiiUGameHacking as we can see in lto.elf, adil.elf, adilmc.elf or rambo.elf because inside we see a famous ```
+to make the menu mods they used the source of WiiUGameHacking as we can see in lto.elf (Phantom), adil.elf (vulcain, adilmc.elf(minecraft) or rambo.elf(server) because inside we see a famous 
+```
 ==================
 GameHackingHelper by NexoCube
 We're started ...
 ```
- and also the launcher .elf was made under WiiUGameHacking too
+and also the launcher.elf was made under WiiUGameHacking too !
 
 # CREDITS
 Thx to Korozin for trinity files and Lokey for compiled elf menus :)
